@@ -57,7 +57,7 @@ class _HomePageState extends State<HomePage> {
             shape: RoundedRectangleBorder(
                 borderRadius: BorderRadius.circular(30.0)),
             primary: currentButtonColor,
-            padding: EdgeInsets.fromLTRB(20, 10, 20, 10),
+            padding: EdgeInsets.fromLTRB(30, 15, 30, 15),
           ),
           child: Text("Change it!"),
         ),
